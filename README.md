@@ -1,4 +1,4 @@
-# eqPretender
+# EQ Pretender
 smallTool to use Traverse AZ mount as EQ mount
 
 TRAVERSE経緯台を赤道儀として動かすWindowsアプリです。
